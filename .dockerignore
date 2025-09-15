@@ -1,0 +1,12 @@
+##Python
+__pycache__/
+*.pyc
+
+##envs
+venv/
+.env
+
+#Docker
+Dockerfile
+.dockerignore
+
