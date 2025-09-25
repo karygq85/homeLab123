@@ -10,3 +10,9 @@ venv/
 Dockerfile
 .dockerignore
 
+#git
+.git
+.gitignore
+
+#logs
+.log
